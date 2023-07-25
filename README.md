@@ -32,4 +32,10 @@ In "The Power of Statistics" course, I explored practical statistical analysis, 
 
 The purpose of this project was to predict taxi cab fares before each ride. At this point, this project’s focus was to find ways to generate more revenue for New York City taxi cab drivers. This project examines the relationship between total fare amount and payment type. 
 
+## 5. Regression Analysis: Simplify Complex Data Relationships
 
+This course equipped me with skills to investigate relationships within datasets and identify regression model assumptions.  I became proficient in linear and logistic regression in Python, and learned to evaluate and interpret models which empowered me to make informed decisions based on statistical evidence.
+
+### 🔵 Project: [New York City TLC - Taxi Fare Prediction](./NYC_Taxi_Fare_Prediction)
+
+Build a multiple linear regression model to accurately predict taxi fares for the New York City Taxi and Limousine Commission (New York City TLC) using existing data collected over a year to deliver valuable insights and enhance data-driven decision-making for both taxi drivers and passengers.
