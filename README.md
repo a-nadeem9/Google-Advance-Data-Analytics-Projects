@@ -20,9 +20,16 @@ In this project, I analyzed the New York City Taxi and Limousine Commission (TLC
 
 During the this course, I honed the art of translating data into meaningful insights. I learned the EDA process for valuable information extraction, the benefits of data structuring and cleaning, and gained hands-on experience in Python-based data exploration. Furthermore, I became proficient in data visualization with Tableau, crafting impactful visualizations to effectively convey insights.
 
-### 🔴  Project: [NYC TLC EDA: Insights for Taxi Ridership](./NYC_TLC_Data_Exploration_Project)
+### 🔴  Project: [New York City TLC EDA - Insights for Taxi Ridership](./NYC_TLC_Data_Exploration_Project)
 
-The goal of the project was to uncover valuable insights into NYC taxi ridership through EDA and data visualization, create Python notebook with structured data, engaging matplotlib/seaborn visuals, and an inclusive Tableau dashboard for NYC TLC's informed decisions and data-driven solutions.
+The goal of the project was to uncover valuable insights into NYC taxi ridership through EDA and data visualization. A Python notebook with structured data, engaging matplotlib/seaborn visuals, and an inclusive Tableau dashboard was created for NYC TLC's informed decisions and data-driven solutions.
 
+## 4. The Power of Statistics
+
+In "The Power of Statistics" course, I explored practical statistical analysis, extracting valuable insights from datasets. Understanding probability distributions enabled accurate data modeling, making informed predictions. Highlights include conducting hypothesis tests and performing statistical analyses with Python, uncovering hidden patterns and trends.
+
+### 🟢  Project: [New York City TLC - Statistical Review and A/B Testing](./NYC_TLC_AB_Testing)
+
+The purpose of this project was to predict taxi cab fares before each ride. At this point, this project’s focus was to find ways to generate more revenue for New York City taxi cab drivers. This project examines the relationship between total fare amount and payment type. 
 
 
