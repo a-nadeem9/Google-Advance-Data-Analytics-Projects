@@ -6,7 +6,7 @@ Hello there! Welcome to my repository showcasing the projects I completed as par
 
 In the 'Foundations of Data Science' course, I explored core data science principles and their real-world applications. Gaining insights into diverse industries relying on advanced analytics, I understood data analysis' crucial role in decision-making. Moreover, I learned about data privacy and ethics, ensuring confidentiality and integrity.
 
-### 🟡  Project: [Automatidata project proposal](./project_1)
+### 🟡  Project: [Automatidata project proposal](./Automatidata-Project-Proposal.pdf)
 In this project, I showcased an effective data science workflow by creating a project proposal. The proposal communicated essential project tasks and milestones to my team. Utilizing the PACE strategy document as my guide, I ensured efficient project planning and development for successful data science project execution
 
 
