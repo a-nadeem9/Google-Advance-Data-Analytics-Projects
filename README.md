@@ -45,7 +45,9 @@ Built a multiple linear regression model to accurately predict taxi fares for th
 
 In this course, I explored the foundations of machine learning, learned to prepare data for models, and built and evaluated supervised and unsupervised learning models. Additionally, I gained valuable insights into proper model and metric selection, enabling me to apply machine learning techniques effectively to real-world datasets. 
 
-### 🟣 Project: []()
+### 🟣 Project: [New York City TLC - Generous Tip Predictor](./Generous_Tip_Predictor)
+
+The goal of this project was to build a machine learning model that predicts the most generous customers—those who will tip 20% or more—based on the data provided by the New York City Taxi & Limousine Commission (New York City TLC). By identifying these generous customers, the aim was to assist taxi drivers in increasing their earnings from tips and improving their overall customer service.
 
 ## ⛳ Capstone Project: Salifort Motors
 
