@@ -38,4 +38,16 @@ This course equipped me with skills to investigate relationships within datasets
 
 ### 🔵 Project: [New York City TLC - Taxi Fare Prediction](./NYC_Taxi_Fare_Prediction)
 
-Build a multiple linear regression model to accurately predict taxi fares for the New York City Taxi and Limousine Commission (New York City TLC) using existing data collected over a year to deliver valuable insights and enhance data-driven decision-making for both taxi drivers and passengers.
+Built a multiple linear regression model to accurately predict taxi fares for the New York City Taxi and Limousine Commission (New York City TLC) using existing data collected over a year to deliver valuable insights and enhance data-driven decision-making for both taxi drivers and passengers.
+
+
+## 6. The Nuts and Bolts of Machine Learning
+
+In this course, I explored the foundations of machine learning, learned to prepare data for models, and built and evaluated supervised and unsupervised learning models. Additionally, I gained valuable insights into proper model and metric selection, enabling me to apply machine learning techniques effectively to real-world datasets. 
+
+### 🟣 Project: []()
+
+## ⛳ Capstone Project: Salifort Motors
+
+
+
